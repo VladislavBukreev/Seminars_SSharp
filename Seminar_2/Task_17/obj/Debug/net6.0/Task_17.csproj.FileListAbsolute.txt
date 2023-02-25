@@ -1,0 +1,15 @@
+D:\Digital-master\Seminars\Seminar_2\Task_17\bin\Debug\net6.0\Task_17.exe
+D:\Digital-master\Seminars\Seminar_2\Task_17\bin\Debug\net6.0\Task_17.deps.json
+D:\Digital-master\Seminars\Seminar_2\Task_17\bin\Debug\net6.0\Task_17.runtimeconfig.json
+D:\Digital-master\Seminars\Seminar_2\Task_17\bin\Debug\net6.0\Task_17.dll
+D:\Digital-master\Seminars\Seminar_2\Task_17\bin\Debug\net6.0\Task_17.pdb
+D:\Digital-master\Seminars\Seminar_2\Task_17\obj\Debug\net6.0\Task_17.csproj.AssemblyReference.cache
+D:\Digital-master\Seminars\Seminar_2\Task_17\obj\Debug\net6.0\Task_17.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-master\Seminars\Seminar_2\Task_17\obj\Debug\net6.0\Task_17.AssemblyInfoInputs.cache
+D:\Digital-master\Seminars\Seminar_2\Task_17\obj\Debug\net6.0\Task_17.AssemblyInfo.cs
+D:\Digital-master\Seminars\Seminar_2\Task_17\obj\Debug\net6.0\Task_17.csproj.CoreCompileInputs.cache
+D:\Digital-master\Seminars\Seminar_2\Task_17\obj\Debug\net6.0\Task_17.dll
+D:\Digital-master\Seminars\Seminar_2\Task_17\obj\Debug\net6.0\refint\Task_17.dll
+D:\Digital-master\Seminars\Seminar_2\Task_17\obj\Debug\net6.0\Task_17.pdb
+D:\Digital-master\Seminars\Seminar_2\Task_17\obj\Debug\net6.0\Task_17.genruntimeconfig.cache
+D:\Digital-master\Seminars\Seminar_2\Task_17\obj\Debug\net6.0\ref\Task_17.dll

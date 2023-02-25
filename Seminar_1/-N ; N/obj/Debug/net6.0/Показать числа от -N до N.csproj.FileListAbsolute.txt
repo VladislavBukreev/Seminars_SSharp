@@ -1,0 +1,30 @@
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Показать числа от -N до N\bin\Debug\net6.0\Показать числа от -N до N.exe
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Показать числа от -N до N\bin\Debug\net6.0\Показать числа от -N до N.deps.json
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Показать числа от -N до N\bin\Debug\net6.0\Показать числа от -N до N.runtimeconfig.json
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Показать числа от -N до N\bin\Debug\net6.0\Показать числа от -N до N.dll
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Показать числа от -N до N\bin\Debug\net6.0\Показать числа от -N до N.pdb
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.csproj.AssemblyReference.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.AssemblyInfoInputs.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.AssemblyInfo.cs
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.dll
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\refint\Показать числа от -N до N.dll
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.pdb
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.genruntimeconfig.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\ref\Показать числа от -N до N.dll
+D:\Digital-master\Seminars\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.csproj.AssemblyReference.cache
+D:\Digital-master\Seminars\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-master\Seminars\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.AssemblyInfoInputs.cache
+D:\Digital-master\Seminars\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.AssemblyInfo.cs
+D:\Digital-master\Seminars\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.csproj.CoreCompileInputs.cache
+D:\Digital-master\Seminars\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.dll
+D:\Digital-master\Seminars\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\refint\Показать числа от -N до N.dll
+D:\Digital-master\Seminars\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.pdb
+D:\Digital-master\Seminars\Seminar_10.02\Показать числа от -N до N\bin\Debug\net6.0\Показать числа от -N до N.exe
+D:\Digital-master\Seminars\Seminar_10.02\Показать числа от -N до N\bin\Debug\net6.0\Показать числа от -N до N.deps.json
+D:\Digital-master\Seminars\Seminar_10.02\Показать числа от -N до N\bin\Debug\net6.0\Показать числа от -N до N.runtimeconfig.json
+D:\Digital-master\Seminars\Seminar_10.02\Показать числа от -N до N\bin\Debug\net6.0\Показать числа от -N до N.dll
+D:\Digital-master\Seminars\Seminar_10.02\Показать числа от -N до N\bin\Debug\net6.0\Показать числа от -N до N.pdb
+D:\Digital-master\Seminars\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\Показать числа от -N до N.genruntimeconfig.cache
+D:\Digital-master\Seminars\Seminar_10.02\Показать числа от -N до N\obj\Debug\net6.0\ref\Показать числа от -N до N.dll

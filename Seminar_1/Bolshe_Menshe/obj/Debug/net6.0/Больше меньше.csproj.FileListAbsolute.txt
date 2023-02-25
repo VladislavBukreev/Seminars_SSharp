@@ -1,0 +1,45 @@
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Больше меньше\bin\Debug\net6.0\Больше меньше.exe
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Больше меньше\bin\Debug\net6.0\Больше меньше.deps.json
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Больше меньше\bin\Debug\net6.0\Больше меньше.runtimeconfig.json
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Больше меньше\bin\Debug\net6.0\Больше меньше.dll
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Больше меньше\bin\Debug\net6.0\Больше меньше.pdb
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.csproj.AssemblyReference.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.AssemblyInfoInputs.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.AssemblyInfo.cs
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.dll
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Больше меньше\obj\Debug\net6.0\refint\Больше меньше.dll
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.pdb
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.genruntimeconfig.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Больше меньше\obj\Debug\net6.0\ref\Больше меньше.dll
+D:\Digital-master\Seminars\Seminar_10.02\Больше меньше\bin\Debug\net6.0\Больше меньше.exe
+D:\Digital-master\Seminars\Seminar_10.02\Больше меньше\bin\Debug\net6.0\Больше меньше.deps.json
+D:\Digital-master\Seminars\Seminar_10.02\Больше меньше\bin\Debug\net6.0\Больше меньше.runtimeconfig.json
+D:\Digital-master\Seminars\Seminar_10.02\Больше меньше\bin\Debug\net6.0\Больше меньше.dll
+D:\Digital-master\Seminars\Seminar_10.02\Больше меньше\bin\Debug\net6.0\Больше меньше.pdb
+D:\Digital-master\Seminars\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.csproj.AssemblyReference.cache
+D:\Digital-master\Seminars\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-master\Seminars\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.AssemblyInfoInputs.cache
+D:\Digital-master\Seminars\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.AssemblyInfo.cs
+D:\Digital-master\Seminars\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.csproj.CoreCompileInputs.cache
+D:\Digital-master\Seminars\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.dll
+D:\Digital-master\Seminars\Seminar_10.02\Больше меньше\obj\Debug\net6.0\refint\Больше меньше.dll
+D:\Digital-master\Seminars\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.pdb
+D:\Digital-master\Seminars\Seminar_10.02\Больше меньше\obj\Debug\net6.0\Больше меньше.genruntimeconfig.cache
+D:\Digital-master\Seminars\Seminar_10.02\Больше меньше\obj\Debug\net6.0\ref\Больше меньше.dll
+D:\Digital-master\Seminars_C-Sharp\Seminar_1\Bolshe_Menshe\bin\Debug\net6.0\Больше меньше.exe
+D:\Digital-master\Seminars_C-Sharp\Seminar_1\Bolshe_Menshe\bin\Debug\net6.0\Больше меньше.deps.json
+D:\Digital-master\Seminars_C-Sharp\Seminar_1\Bolshe_Menshe\bin\Debug\net6.0\Больше меньше.runtimeconfig.json
+D:\Digital-master\Seminars_C-Sharp\Seminar_1\Bolshe_Menshe\bin\Debug\net6.0\Больше меньше.dll
+D:\Digital-master\Seminars_C-Sharp\Seminar_1\Bolshe_Menshe\bin\Debug\net6.0\Больше меньше.pdb
+D:\Digital-master\Seminars_C-Sharp\Seminar_1\Bolshe_Menshe\obj\Debug\net6.0\Больше меньше.csproj.AssemblyReference.cache
+D:\Digital-master\Seminars_C-Sharp\Seminar_1\Bolshe_Menshe\obj\Debug\net6.0\Больше меньше.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-master\Seminars_C-Sharp\Seminar_1\Bolshe_Menshe\obj\Debug\net6.0\Больше меньше.AssemblyInfoInputs.cache
+D:\Digital-master\Seminars_C-Sharp\Seminar_1\Bolshe_Menshe\obj\Debug\net6.0\Больше меньше.AssemblyInfo.cs
+D:\Digital-master\Seminars_C-Sharp\Seminar_1\Bolshe_Menshe\obj\Debug\net6.0\Больше меньше.csproj.CoreCompileInputs.cache
+D:\Digital-master\Seminars_C-Sharp\Seminar_1\Bolshe_Menshe\obj\Debug\net6.0\Больше меньше.dll
+D:\Digital-master\Seminars_C-Sharp\Seminar_1\Bolshe_Menshe\obj\Debug\net6.0\refint\Больше меньше.dll
+D:\Digital-master\Seminars_C-Sharp\Seminar_1\Bolshe_Menshe\obj\Debug\net6.0\Больше меньше.pdb
+D:\Digital-master\Seminars_C-Sharp\Seminar_1\Bolshe_Menshe\obj\Debug\net6.0\Больше меньше.genruntimeconfig.cache
+D:\Digital-master\Seminars_C-Sharp\Seminar_1\Bolshe_Menshe\obj\Debug\net6.0\ref\Больше меньше.dll

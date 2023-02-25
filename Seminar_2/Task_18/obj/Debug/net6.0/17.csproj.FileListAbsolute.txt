@@ -1,0 +1,15 @@
+D:\Digital-master\Seminars\Seminar_2\17\obj\Debug\net6.0\17.csproj.AssemblyReference.cache
+D:\Digital-master\Seminars\Seminar_2\17\obj\Debug\net6.0\17.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-master\Seminars\Seminar_2\17\obj\Debug\net6.0\17.AssemblyInfoInputs.cache
+D:\Digital-master\Seminars\Seminar_2\17\obj\Debug\net6.0\17.AssemblyInfo.cs
+D:\Digital-master\Seminars\Seminar_2\17\obj\Debug\net6.0\17.csproj.CoreCompileInputs.cache
+D:\Digital-master\Seminars\Seminar_2\17\bin\Debug\net6.0\17.exe
+D:\Digital-master\Seminars\Seminar_2\17\bin\Debug\net6.0\17.deps.json
+D:\Digital-master\Seminars\Seminar_2\17\bin\Debug\net6.0\17.runtimeconfig.json
+D:\Digital-master\Seminars\Seminar_2\17\bin\Debug\net6.0\17.dll
+D:\Digital-master\Seminars\Seminar_2\17\bin\Debug\net6.0\17.pdb
+D:\Digital-master\Seminars\Seminar_2\17\obj\Debug\net6.0\17.dll
+D:\Digital-master\Seminars\Seminar_2\17\obj\Debug\net6.0\refint\17.dll
+D:\Digital-master\Seminars\Seminar_2\17\obj\Debug\net6.0\17.pdb
+D:\Digital-master\Seminars\Seminar_2\17\obj\Debug\net6.0\17.genruntimeconfig.cache
+D:\Digital-master\Seminars\Seminar_2\17\obj\Debug\net6.0\ref\17.dll

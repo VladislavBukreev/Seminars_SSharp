@@ -1,0 +1,30 @@
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Квадрат числа\bin\Debug\net6.0\Квадрат числа.exe
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Квадрат числа\bin\Debug\net6.0\Квадрат числа.deps.json
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Квадрат числа\bin\Debug\net6.0\Квадрат числа.runtimeconfig.json
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Квадрат числа\bin\Debug\net6.0\Квадрат числа.dll
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Квадрат числа\bin\Debug\net6.0\Квадрат числа.pdb
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.csproj.AssemblyReference.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.AssemblyInfoInputs.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.AssemblyInfo.cs
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.dll
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\refint\Квадрат числа.dll
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.pdb
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.genruntimeconfig.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\ref\Квадрат числа.dll
+D:\Digital-master\Seminars\Seminar_10.02\Квадрат числа\bin\Debug\net6.0\Квадрат числа.exe
+D:\Digital-master\Seminars\Seminar_10.02\Квадрат числа\bin\Debug\net6.0\Квадрат числа.deps.json
+D:\Digital-master\Seminars\Seminar_10.02\Квадрат числа\bin\Debug\net6.0\Квадрат числа.runtimeconfig.json
+D:\Digital-master\Seminars\Seminar_10.02\Квадрат числа\bin\Debug\net6.0\Квадрат числа.dll
+D:\Digital-master\Seminars\Seminar_10.02\Квадрат числа\bin\Debug\net6.0\Квадрат числа.pdb
+D:\Digital-master\Seminars\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.csproj.AssemblyReference.cache
+D:\Digital-master\Seminars\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-master\Seminars\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.AssemblyInfoInputs.cache
+D:\Digital-master\Seminars\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.AssemblyInfo.cs
+D:\Digital-master\Seminars\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.csproj.CoreCompileInputs.cache
+D:\Digital-master\Seminars\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.dll
+D:\Digital-master\Seminars\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\refint\Квадрат числа.dll
+D:\Digital-master\Seminars\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.pdb
+D:\Digital-master\Seminars\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\Квадрат числа.genruntimeconfig.cache
+D:\Digital-master\Seminars\Seminar_10.02\Квадрат числа\obj\Debug\net6.0\ref\Квадрат числа.dll
