@@ -16,28 +16,27 @@ Console.Write("Введите кол-во строк в массиве -> ");
 int rows = int.Parse(Console.ReadLine());
 Console.Write("Введите кол-во столбцов в массиве -> ");
 int columns = int.Parse(Console.ReadLine());
-Console.Write("Какое максимальное число от 0 будет в массиве -> ");
-int rand = int.Parse(Console.ReadLine());
-int[,] array = GetArray(rows, columns, 0, rand);
+int[,] array = GetArray(rows, columns, 0, 10);
 PrintArray(array);
 Console.WriteLine();
+//Method(array);
 PrintArray(Method(array));
 
-int[,] GetArray(int m, int n, int minValue, int maxValue)  // как всегда создаём рандомный массив
+int[,] GetArray(int m, int n, int min, int max)  // как всегда создаём рандомный массив
 {
     int[,] result = new int[m,n];
-    for(int i = 0; i < n; i++)
+    for(int i = 0; i < m; i++)
     {
-        for(int j = 0; j < m; j++)
+        for(int j = 0; j < n; j++)
         {
-            result[i,j] = new Random().Next(rand);
+            result[i,j] = new Random().Next(min , max+1);
         }
     }
     return result; 
 }
 
 
-int[,] Method(int[,] array)      // Метод возведения в квадрат числа с индексоми которых чётные
+int[,] Method(int[,] array)      // Метод возведения в квадрат числа, индексы которого - чётные
 {
     for(int i = 0; i < array.GetLength(0); i++)
     {
@@ -52,13 +51,13 @@ int[,] Method(int[,] array)      // Метод возведения в квад�
     return array;
 }
 
-void PrintArray(int[,] inArray)  // печатаем массив
+void PrintArray(int[,] array)  // печатаем массив
 {
-    for (int i = 0; i < inArray.GetLength(0); i++)
+    for (int i = 0; i < array.GetLength(0); i++)
     {
-        for (int j = 0; j < inArray.GetLength(1); j++)
+        for (int j = 0; j < array.GetLength(1); j++)
         {
-            Console.Write($"{inArray[i,j]} ");
+            Console.Write($"{array[i,j]} ");
         }
     Console.WriteLine();
     }
