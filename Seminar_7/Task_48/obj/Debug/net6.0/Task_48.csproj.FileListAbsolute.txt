@@ -1,0 +1,15 @@
+D:\Digital-master\Seminars_C-Sharp\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.csproj.AssemblyReference.cache
+D:\Digital-master\Seminars_C-Sharp\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-master\Seminars_C-Sharp\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.AssemblyInfoInputs.cache
+D:\Digital-master\Seminars_C-Sharp\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.AssemblyInfo.cs
+D:\Digital-master\Seminars_C-Sharp\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.csproj.CoreCompileInputs.cache
+D:\Digital-master\Seminars_C-Sharp\Seminar_7\Task_48\bin\Debug\net6.0\Task_48.exe
+D:\Digital-master\Seminars_C-Sharp\Seminar_7\Task_48\bin\Debug\net6.0\Task_48.deps.json
+D:\Digital-master\Seminars_C-Sharp\Seminar_7\Task_48\bin\Debug\net6.0\Task_48.runtimeconfig.json
+D:\Digital-master\Seminars_C-Sharp\Seminar_7\Task_48\bin\Debug\net6.0\Task_48.dll
+D:\Digital-master\Seminars_C-Sharp\Seminar_7\Task_48\bin\Debug\net6.0\Task_48.pdb
+D:\Digital-master\Seminars_C-Sharp\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.dll
+D:\Digital-master\Seminars_C-Sharp\Seminar_7\Task_48\obj\Debug\net6.0\refint\Task_48.dll
+D:\Digital-master\Seminars_C-Sharp\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.pdb
+D:\Digital-master\Seminars_C-Sharp\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.genruntimeconfig.cache
+D:\Digital-master\Seminars_C-Sharp\Seminar_7\Task_48\obj\Debug\net6.0\ref\Task_48.dll
