@@ -11,15 +11,14 @@ using static System.Console;
 Clear();
 /* ПРИМЕР ЧТО МОЖНО РЕКУРСИЮ ЗАМЕНИТЬ ЦИКЛОМ
  
-Write("Введите N: ");
-int n = int.Parse(ReadLine());
 for (int i = 1; i <= n; i++)    
 {
     Write($"{i} ");
 }
 WriteLine();
 */
-
+Write("Введите N: ");
+int n = int.Parse(ReadLine());
 WriteLine(PrintNumbers(n));
 ReadLine();
 

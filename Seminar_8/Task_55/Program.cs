@@ -58,4 +58,3 @@ void ChangeArray2(int[,] array)
             array[i, j] = k;
         }
     }
-}
